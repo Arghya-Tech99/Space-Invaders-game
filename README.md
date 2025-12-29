@@ -1,4 +1,8 @@
 # Space Invaders - Python Game Development
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pygame](https://img.shields.io/badge/Pygame-active?style=for-the-badge&logo=python&logoColor=white&color=yellowgreen)
+
 A classic arcade-style **Space Invaders** game built using Python and the Pygame library. This project demonstrates core game development principles, including game loops, event handling, coordinate systems, and collision detection.
 
 ## Overview
